@@ -1,0 +1,6 @@
+
+
+
+1) go to bin folder
+2) run mongod.exe for daemon proces
+with parater --dbpath c:\data\db 
